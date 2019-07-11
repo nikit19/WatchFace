@@ -3,9 +3,9 @@
 <img alt='Get it on Google Play' src="images/google-play-badge.png" height="80" />
 </a>
 
-#### A minimalistic watch face.
+### A minimalistic watch face.
 
-<img  src="images/screenshot.png" height="300" />
+<img  src="images/screenshot.png" height="450" />
 
 
 
