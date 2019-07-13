@@ -4,6 +4,7 @@
 </a>
 
 ### A minimalistic watch face.
+[Blog link](https://proandroiddev.com/build-watch-faces-for-wear-os-44be9d536a9a)
 
 <img  src="images/screenshot.png" height="450" />
 
